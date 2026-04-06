@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jslee730417-cell/jslee730417-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-<img src="이+정시ㅡ이.png"width="4
+   <img src="이정심2026.jpg"width="400">
+</p>
